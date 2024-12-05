@@ -1,4 +1,4 @@
-﻿using BHF.MS.MyMicroservice.Models.Settings;
+using BHF.MS.MyMicroservice.Models.Settings;
 using BHF.MS.MyMicroservice.Services;
 using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Microsoft.Extensions.Options;

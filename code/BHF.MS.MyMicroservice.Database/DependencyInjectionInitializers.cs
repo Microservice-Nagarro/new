@@ -1,4 +1,4 @@
-﻿using BHF.MS.MyMicroservice.Database.Context;
+using BHF.MS.MyMicroservice.Database.Context;
 using BHF.MS.MyMicroservice.Database.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;

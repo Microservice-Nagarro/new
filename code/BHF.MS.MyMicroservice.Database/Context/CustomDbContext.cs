@@ -1,4 +1,4 @@
-﻿using BHF.MS.MyMicroservice.Database.Context.Entities;
+using BHF.MS.MyMicroservice.Database.Context.Entities;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics.CodeAnalysis;
 

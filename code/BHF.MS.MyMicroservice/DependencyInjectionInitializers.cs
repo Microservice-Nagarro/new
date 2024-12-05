@@ -1,4 +1,4 @@
-﻿using Azure.Core;
+using Azure.Core;
 using Azure.Identity;
 using BHF.MS.MyMicroservice.HealthCheck;
 using BHF.MS.MyMicroservice.Models.Settings;
